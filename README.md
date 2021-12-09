@@ -45,6 +45,7 @@ El archivo de configuración `emeefe.subscriptions` permite definir los nombres 
     ```
 
 # Subscriptions
+
 ### Tipos de plan (PlanType)
 Un tipo de plan engloba un conjunto de caracteristicas permitidas, puede usarse para separar multiples tipos de planes como planes para Empresa, para Usuarios, de almacenamiento, etc.
 
